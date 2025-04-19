@@ -1,0 +1,11 @@
+# Ignore everything above the project level
+../*
+# Node modules and other clutter
+node_modules/
+dist/
+.DS_Store
+.env
+*.zip
+*.exe
+*.msi
+*.log
